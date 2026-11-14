@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Code Studio",
+  "description": "Offline-first bilingual HTML, CSS, and JavaScript Android IDE with Liquid Glass UI, syntax-highlighted editor, local HTTP server, and fullscreen WebView preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
